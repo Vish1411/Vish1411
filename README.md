@@ -1,23 +1,4 @@
-<!doctype html>
-<html lang="en">
 
-<head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap" rel="stylesheet">
-    <title> Alas! 🤗 </title>
-    <style>
-        body {
-            font-family: 'Poppins', sans-serif;
-        }
-    </style>
-</head>
-
-<body>
     <h5 class="fw-bold">Hey There <img src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" alt="" width="32px" /></h5>
     <p class="fw-bold"> Sakshi Vishwakarma, I am from Lucknow, India. I'm passionate about learning new technologies and I like to think about technical logics and ideas. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
         My passion is to improve myself and the way I do coding. I learned a lot from the open-source community and I love how collaboration and sharing knowledge.</p>
@@ -37,8 +18,3 @@
         <a href="https://fb.com/https://www.facebook.com/profile.php?id=100024848829611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100024848829611" height="20" width="20" /></a>
         <a href="https://instagram.com/https://www.instagram.com/sakshivishwakarma22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sakshivishwakarma22/" height="20" width="20" /></a>
     </p>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
-
-</body>
-
-</html>
